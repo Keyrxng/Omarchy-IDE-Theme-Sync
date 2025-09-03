@@ -6,6 +6,8 @@ This is a best‑effort tool. Some themes convert beautifully, others need a nud
 
 ## See it in action
 
+https://imgur.com/a/SmacXX8
+
 - Clone the repo. Run the install script. Change theme using the Omarchy default cmd.
 <video src="readme-clips/theme-sync-install.mp4" controls muted preload="metadata" width="720"></video>
 
@@ -15,7 +17,7 @@ This is a best‑effort tool. Some themes convert beautifully, others need a nud
 - Apply theme changes to both IDEs without affecting the system theme.
 <video src="readme-clips/theme-sync-apply.mp4" controls muted preload="metadata" width="720"></video>
 
-If your renderer doesn’t show inline video, the clips live in `readme-clips/` and are deleted during `install.sh`.
+The clips won't render and I haven't fully cracked kdenlive yet, but you can view the three clips [here](https://imgur.com/a/SmacXX8) until then.
 
 ## What this does
 
