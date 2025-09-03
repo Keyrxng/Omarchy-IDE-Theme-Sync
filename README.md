@@ -6,18 +6,27 @@ This is a best‑effort tool. Some themes convert beautifully, others need a nud
 
 ## See it in action
 
-https://imgur.com/a/SmacXX8
+[Leaving Windows, finding Omarchy, and dressing my OS](https://www.keyrxng.xyz/writing/omarchy-ide-theme-sync)
+
 
 - Clone the repo. Run the install script. Change theme using the Omarchy default cmd.
-<video src="readme-clips/theme-sync-install.mp4" controls muted preload="metadata" width="720"></video>
+
+
+https://github.com/user-attachments/assets/32ebf929-2be1-46e7-acae-6a90c202f9d1
+
+
 
 - Install a new theme through Omarchy theme installer and both IDEs update automagically.
-<video src="readme-clips/theme-sync-new-theme-install.mp4" controls muted preload="metadata" width="720"></video>
+
+
+
+https://github.com/user-attachments/assets/9d36c793-998e-427c-a439-1f3efeca3e8d
+
 
 - Apply theme changes to both IDEs without affecting the system theme.
-<video src="readme-clips/theme-sync-apply.mp4" controls muted preload="metadata" width="720"></video>
 
-The clips won't render and I haven't fully cracked kdenlive yet, but you can view the three clips [here](https://imgur.com/a/SmacXX8) until then.
+
+https://github.com/user-attachments/assets/f686042f-9226-4643-81a9-9047528f0214
 
 ## What this does
 
